@@ -1,0 +1,6 @@
+django
+djangorestframework
+djangorestframework-simplejwt
+requests
+bcrypt
+py-eureka-client
