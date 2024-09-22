@@ -5,3 +5,4 @@ requests
 bcrypt
 py-eureka-client
 django-cors-headers
+beautifulsoup4
