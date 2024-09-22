@@ -4,4 +4,4 @@ djangorestframework-simplejwt
 requests
 bcrypt
 py-eureka-client
-corsheaders
+django-cors-headers
