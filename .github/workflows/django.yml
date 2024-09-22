@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - yassine-pipeline-test
 
 jobs:
   build:
