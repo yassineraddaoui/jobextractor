@@ -40,7 +40,6 @@ INSTALLED_APPS = [
     'rest_framework',
     'rest_framework_simplejwt',
     'job_extractor_app',
-    'py_eureka_client',
     'corsheaders',
 ]
 
